@@ -1,4 +1,3 @@
-// 引入 UIKit 和 Foundation 框架，儘管在此程式碼中並未直接使用它們
 import UIKit
 import Foundation
 
