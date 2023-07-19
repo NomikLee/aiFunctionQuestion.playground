@@ -1,5 +1,4 @@
 import UIKit
-import Foundation
 
 // 計算股票投資的年均收益率
 func returnOnStockInvestment(initialInvestment: Double, finalValue: Double, dividends: Double, years: Double)  {
